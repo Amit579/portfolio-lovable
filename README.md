@@ -1,4 +1,4 @@
-# portfolio-lovable
+# portfolio
 My Tech Details
 # 💫 About Me:
 👋 Hi, I’m Amit Sharma<br>Senior iOS Developer with 7+ years of experience building secure, scalable, and high-performance mobile applications using Swift, Objective-C, and React Native.<br><br>🔭 Currently working on:<br>Production-grade iOS apps with a focus on performance optimization, security, and clean architecture; integrating AI-driven features where applicable.<br><br>👯 Open to collaborating on:<br>Mobile applications, cross-platform solutions, and AI-enabled products with real-world impact.<br><br>🤝 Looking for help with:<br>Advanced Agentic AI design patterns and production deployment of Python-based AI services.<br><br>🌱 Currently learning:<br>Python development with Agentic AI — Django, PyTorch, autonomous agents, and AI workflow automation.<br><br>💬 Ask me about:<br>iOS app architecture, Swift/Objective-C best practices, React Native, app security, performance tuning, and scalable mobile systems.<br><br>⚡ Fun fact:<br>I enjoy combining mobile engineering with AI to build smarter, more efficient products.
